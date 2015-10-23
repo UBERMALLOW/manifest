@@ -27,6 +27,8 @@
   <project path="developers/docs" name="platform/developers/docs" />
   <project path="development" name="platform/development" groups="pdk-cw-fs,pdk-fs" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" />
+  <project path="device/htc/flounder" name="device_htc_flounder" remote="um" revision="master" />
+  <project path="kernel/htc/flounder" name="kernel_htc_flounder" remote="um" revision="mm" />
   <project path="device/lge/hammerhead" name="device_lge_hammerhead" remote="um" revision="master" />
   <project path="kernel/lge/hammerhead" name="kernel_lge_hammerhead" remote="um" revision="master" />
   <project path="device/moto/shamu" name="device_moto_shamu" remote="um" revision="master" />
@@ -427,6 +429,7 @@
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
+  <project path="vendor/htc" name="vendor_htc" remote="um" revision="master" />
   <project path="vendor/lge" name="vendor_lge_minimal" remote="um" revision="master" />
   <project path="vendor/moto" name="vendor_moto_shamu" remote="um" revision="master" />
   <project path="vendor/uber" name="vendor" remote="um" revision="master"  />
