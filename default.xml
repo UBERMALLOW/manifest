@@ -9,7 +9,7 @@
            fetch="https://github.com/UBERMALLOW/" />
   <remote name="bb"
            fetch="https://bitbucket.org/" />
-  <default revision="refs/tags/android-6.0.0_r1"
+  <default revision="refs/tags/android-6.0.0_r26"
            remote="aosp"
            sync-j="4" />
 
