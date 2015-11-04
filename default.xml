@@ -30,7 +30,7 @@
   <project path="device/htc/flounder" name="device_htc_flounder" remote="um" revision="master" />
   <project path="kernel/htc/flounder" name="kernel_htc_flounder" remote="um" revision="mm" />
   <project path="device/huawei/angler" name="device_huawei_angler" remote="um" revision="master" />
-  <project path="kernel/huawei/angler" name="DespairFactor/angler" remote="gh" revision="master"
+  <project path="kernel/huawei/angler" name="DespairFactor/angler" remote="gh" revision="master" />
   <project path="device/lge/bullhead" name="device_lge_bullhead" remote="um" revision="master" />
   <project path="device/lge/hammerhead" name="device_lge_hammerhead" remote="um" revision="master" />
   <project path="kernel/lge/hammerhead" name="kernel_lge_hammerhead" remote="um" revision="master" />
