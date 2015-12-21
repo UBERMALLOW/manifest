@@ -35,6 +35,8 @@
   <project path="kernel/lge/bullhead" name="DespairFactor/bullhead" remote="gh" revision="master" />
   <project path="device/lge/hammerhead" name="device_lge_hammerhead" remote="um" revision="master" />
   <project path="kernel/lge/hammerhead" name="kernel_lge_hammerhead" remote="um" revision="master" />
+  <project path="device/lge/mako" name="device_lge_mako" remote="um" revision="master" />
+  <project path="kernel/lge/hammerhead" name="CallMeAldy/kernel_lge_mako" remote="gh" revision="mm-6.0" />
   <project path="device/moto/shamu" name="device_moto_shamu" remote="um" revision="master" />
   <project path="kernel/moto/shamu" name="DespairFactor/N6" remote="gh" revision="CFS-test" />  
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
