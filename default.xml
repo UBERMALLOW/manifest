@@ -27,6 +27,8 @@
   <project path="developers/docs" name="platform/developers/docs" />
   <project path="development" name="platform/development" groups="pdk-cw-fs,pdk-fs" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" />
+  <project path="device/asus/flo" name="device_asus_flo" remote="um" revision="master" />
+  <project path="kernel/asus/flo" name="PureNexusProject/kernel_asus_flo" remote="gh" revision="mm" />project path="device/htc/flounder" name="device_htc_flounder" remote="um" revision="master" />
   <project path="device/htc/flounder" name="device_htc_flounder" remote="um" revision="master" />
   <project path="kernel/htc/flounder" name="kernel_htc_flounder" remote="um" revision="mm" />
   <project path="device/huawei/angler" name="device_huawei_angler" remote="um" revision="master" />
@@ -436,6 +438,7 @@
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
+  <project path="vendor/asus" name="vendor_asus" remote="um" revision="mm" />
   <project path="vendor/htc" name="vendor_htc" remote="um" revision="master" />
   <project path="vendor/huawei" name="vendor_huawei" remote="um" revision="master" />
   <project path="vendor/lge" name="vendor_lge_minimal" remote="um" revision="master" />
