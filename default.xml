@@ -28,7 +28,7 @@
   <project path="development" name="platform/development" groups="pdk-cw-fs,pdk-fs" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" />
   <project path="device/asus/flo" name="device_asus_flo" remote="um" revision="master" />
-  <project path="kernel/asus/flo" name="PureNexusProject/android_kernel_asus_flo" remote="gh" revision="mm" />
+  <project path="kernel/asus/flo" name="PureNexusProject/android_kernel_asus_flo" remote="gh" revision="mm2" />
   <project path="device/htc/flounder" name="device_htc_flounder" remote="um" revision="master" />
   <project path="kernel/htc/flounder" name="kernel_htc_flounder" remote="um" revision="mm" />
   <project path="device/huawei/angler" name="device_huawei_angler" remote="um" revision="master" />
