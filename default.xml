@@ -444,5 +444,6 @@
   <project path="vendor/lge" name="vendor_lge_minimal" remote="um" revision="master" />
   <project path="vendor/moto" name="vendor_moto_shamu" remote="um" revision="master" />
   <project path="vendor/uber" name="vendor" remote="um" revision="master"  />
+  <project path="packages/apps/masquerade" name="TeamSubstratum/masquerade" remote="gh" revision="master" />
 
 </manifest>
