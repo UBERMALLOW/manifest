@@ -440,9 +440,9 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
   <project path="vendor/asus" name="vendor_asus" remote="um" revision="mm" />
   <project path="vendor/htc" name="vendor_htc" remote="um" revision="master" />
-  <project path="vendor/huawei" name="vendor_huawei" remote="um" revision="master" />
+  <project path="vendor/huawei" name="purenexusproject/proprietary_vendor_huawei" remote="gh" revision="mm2" />
   <project path="vendor/lge" name="vendor_lge_minimal" remote="um" revision="master" />
-  <project path="vendor/moto" name="vendor_moto_shamu" remote="um" revision="master" />
+  <project path="vendor/moto" name="purenexusproject/proprietary_vendor_moto" remote="gh" revision="mm2" />
   <project path="vendor/uber" name="vendor" remote="um" revision="master"  />
   <project path="packages/apps/masquerade" name="TeamSubstratum/masquerade" remote="gh" revision="master" />
 
